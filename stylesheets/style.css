@@ -1,0 +1,19 @@
+.article{
+	/*width: 1000px;*/
+/*	position: absolute;
+	left: 50%;
+	top: 0;
+	margin-left: -500px;*/
+	/*margin: 0 auto;*/
+}
+.box{
+	float: left;
+	width: 300px;
+	padding: 10px;
+	box-shadow: 0 1px 4px #999;
+	margin: 10px;
+	border-radius: 10px;
+}
+.box img{
+	width: 300px;
+}
